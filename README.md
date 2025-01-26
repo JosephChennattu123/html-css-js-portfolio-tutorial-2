@@ -1,1 +1,1 @@
-The core code for my website. Very indebted to @HowtoBecomeaDeveloper
+The core code for my website, did it as a build along project. Page is very static so upcoming update are expected of the to make it dynamic. Exploring a direct Git linking aspect. Very indebted to @HowtoBecomeaDeveloper
